@@ -21,5 +21,9 @@ window.addEventListener('load',() => {
     addReview('Olivia H.','Mr. Arnell is my favorite teacher and i don\'t even have him. 100/10');
     addReview('Jane R.','Mr. Arnell is the BEST teacher!!! That\'s all I need to say because he is.');
     addReview('Josh P.','He is a good teacher and makes class fun.');
-    addReview('Vin J.','Mr Arnell is the goat, the goat.  Nobody can compare.  He has the might swoosh cut through blades grass. He has story time, wher ehe can provide person wit the amount information thy need in any history topic.  He also has made the best game ever, trashketball which has been voted as the number one sport in the world.');
+    addReview('Vin J.','Mr Arnell is the goat, the goat.  Nobody can compare.  He has the mighty swoosh cut through blades grass. He has story time, wher he can provide person with the amount information they need in any history topic.  He also has made the best game ever, trashketball, which has been voted as the number one sport in the world.');
+    addReview('Carson S.','Mr. Arnell is cool.');
+    addReview('Ms. Leak (quote provided by Marco)','He\'s the best teacher in the school.');
+    addReview('Will S.','He\'s a banger.');
+    addReview('Ethan S.','One of the eight wonders of the world.');
 });
