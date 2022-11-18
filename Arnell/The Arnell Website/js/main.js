@@ -20,4 +20,5 @@ window.addEventListener('load',() => {
     addReview('Bevin M.','Mr. Arnell is one of the best teachers I have ever had. The day is just frankly boring without having his Class. \n FIVE STARS\n\nWhoever took down Mr. Arnell\'s graveyard of swoosh\'s, you should be ashamed of yourself and Mr. Arnell is ashamed too.');
     addReview('Olivia H.','Mr. Arnell is my favorite teacher and i don\'t even have him. 100/10');
     addReview('Jane R.','Mr. Arnell is the BEST teacher!!! That\'s all I need to say because he is.');
+    addReview('Josh P.','He is a good teacher and makes class fun.');
 });
